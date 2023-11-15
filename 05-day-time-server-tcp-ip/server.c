@@ -1,11 +1,3 @@
-/**
- * Title : Day-Time server
- * Name : Aditya Pratap Singh Rajput
- * Subject : Network Protocols And Programming using C
- * 
- * */
-
-//program for date time server
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h>

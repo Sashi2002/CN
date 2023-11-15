@@ -1,12 +1,3 @@
-/*
- * Title : File Transfer Protocol 
- * Name : Aditya Pratap Singh Rajput
- * Subject : Network Protocols And Programming using C
- * 
-Note : Please consider the TYPOS in comments.
-Thanks.
-*/
-
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"

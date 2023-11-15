@@ -1,12 +1,3 @@
-/*
- * Title : Half duplex client side 
- * Name : Aditya Pratap Singh Rajput
- * Subject : Network Protocols And Programming using C
- * 
-Note : please consider the TYPOS in comments.
-Thanks.
-*/
-
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
